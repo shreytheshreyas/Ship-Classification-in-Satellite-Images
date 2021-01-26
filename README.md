@@ -12,5 +12,5 @@ In this project "Ships in Satellite Imagery" dataset was used.
    * scene id: The unique identifier of the PlanetScope visual scene the image chip was extracted from. 
    * longitude_latitude: The longitude and latitude coordinates of the image center point, with values separated by a single underscore.
 * Dataset Link: https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
-![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](https://drive.google.com/file/d/1P74nVhwuizCiaoos6cwlq_NPimO7kr3o/view?usp=sharing)
