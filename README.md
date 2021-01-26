@@ -13,4 +13,4 @@ In this project "Ships in Satellite Imagery" dataset was used.
    * longitude_latitude: The longitude and latitude coordinates of the image center point, with values separated by a single underscore.
 * Dataset Link: https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 
-Format: ![Alt Text](https://drive.google.com/file/d/1P74nVhwuizCiaoos6cwlq_NPimO7kr3o/view?usp=sharing)
+(https://drive.google.com/file/d/1P74nVhwuizCiaoos6cwlq_NPimO7kr3o/view?usp=sharing)
