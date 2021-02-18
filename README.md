@@ -15,3 +15,4 @@ In this project "Ships in Satellite Imagery" dataset was used.
 
 ![](/Project_Image.png)
 
+Trained Model: https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
