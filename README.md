@@ -11,8 +11,8 @@ In this project "Ships in Satellite Imagery" dataset was used.
    * label: Valued 1 or 0, representing the "ship" class and "no-ship" class, respectively.
    * scene id: The unique identifier of the PlanetScope visual scene the image chip was extracted from. 
    * longitude_latitude: The longitude and latitude coordinates of the image center point, with values separated by a single underscore.
-* Dataset Link: https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
-* Trained Model: https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
+* Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
+* Trained Model : https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
 
 ![](/Project_Image.png)
 
