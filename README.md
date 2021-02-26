@@ -14,7 +14,8 @@ In this project "Ships in Satellite Imagery" dataset was used.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 * Trained Model : https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
 
-**Some random correct classified ships are shown below:**
+Some random correct classified ships are shown below:
+
 ![](/Project_Image.png)
 
 
