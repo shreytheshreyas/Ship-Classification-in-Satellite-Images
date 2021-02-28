@@ -23,7 +23,7 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * cv2
  * json
  * sklearn
- * 
+ 
 +---------------+---------------+--------------------+
 | Fruit         | Price         | Advantages         |
 +===============+===============+====================+
@@ -34,10 +34,10 @@ For this project "Ships in Satellite Imagery" dataset was used.
 |               |               | - tasty            |
 +---------------+---------------+--------------------+
 
-| ----------- |:------------:| ---------:|
-| pandas      | seaborn      | json      |
-| numpy       | tensorflow   |   sklearn |
-| matplotlib  | cv2          |           |
+| ---------- |:-----------:| -------:|
+| pandas     | seaborn     | json    |
+| numpy      | tensorflow  | sklearn |
+| matplotlib | cv2         |         |
 
 # Some random correct classified ships are shown below:
 
