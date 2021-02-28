@@ -15,8 +15,6 @@ For this project "Ships in Satellite Imagery" dataset was used.
 * Trained Model : https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
 
 # Requirements
-
- * os
  * pandas 
  * numpy 
  * matplotlib 
