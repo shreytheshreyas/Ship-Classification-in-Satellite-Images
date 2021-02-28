@@ -18,8 +18,8 @@ For this project "Ships in Satellite Imagery" dataset was used.
 
 <pre>
  Pandas                                Seaborn                              Keras                      
- Tensorflow                            Matplotlib                           scikit-learn        
- OpenCV                                Numpy                                
+ TensorFlow                            Matplotlib                           scikit-learn        
+ OpenCV                                NumPy                                
 </pre> 
  
 *Some random correct classified ships are shown below:
