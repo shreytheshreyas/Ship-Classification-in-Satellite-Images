@@ -1,6 +1,6 @@
 # Ship Classification in Satellite Images
 In this project a convolutional neural network model was created for ship classification in satellite images. 
-In this project "Ships in Satellite Imagery" dataset was used.
+For this project "Ships in Satellite Imagery" dataset was used.
 
  * The specific Dataset includes 4000 images labeled with either a "ship" or "no-ship" classification.
  * These 4000 images are in .png format and have dimensions of 80 × 80 pixels. 
@@ -26,6 +26,6 @@ In this project "Ships in Satellite Imagery" dataset was used.
  * json
  * sklearn
 
-Some random correct classified ships are shown below:
+# Some random correct classified ships are shown below:
 
 ![](/Project_Image.png)
