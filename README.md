@@ -24,10 +24,10 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * json
  * sklearn
 
-| ------------- |:-------------:| -----:|
-| pandas     | seaborn  | json |
-| numpy       | tensorflow       |   sklearn |
-| matplotlib  | cv2      |    |
+| ----------- |:------------:| ---------:|
+| pandas      | seaborn      | json      |
+| numpy       | tensorflow   |   sklearn |
+| matplotlib  | cv2          |           |
 
 # Some random correct classified ships are shown below:
 
