@@ -24,7 +24,7 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * json
  * sklearn
  
-|                                                              |
+
 | ------------------- |:-------------------:| ----------------:|
 | col 3 is            | right-aligned       | $1600            |
 | col 2 is            | centered            |   $12            |
