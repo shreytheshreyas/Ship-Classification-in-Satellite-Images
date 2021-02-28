@@ -1,4 +1,4 @@
-# Ship_Classification_in_Satellite_Images
+# Ship Classification in Satellite Images
 In this project a convolutional neural network model was created for ship classification in satellite images. 
 In this project "Ships in Satellite Imagery" dataset was used.
 
@@ -14,8 +14,18 @@ In this project "Ships in Satellite Imagery" dataset was used.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 * Trained Model : https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
 
+# Requirements
+
+ * os
+ * pandas 
+ * numpy 
+ * matplotlib 
+ * seaborn 
+ * tensorflow 
+ * cv2
+ * json
+ * sklearn
+
 Some random correct classified ships are shown below:
 
 ![](/Project_Image.png)
-
-
