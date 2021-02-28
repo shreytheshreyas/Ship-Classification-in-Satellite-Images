@@ -24,20 +24,12 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * json
  * sklearn
  
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
-
-| ---------- |:-----------:| -------:|
-| pandas     | seaborn     | json    |
-| numpy      | tensorflow  | sklearn |
-| matplotlib | cv2         |         |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 # Some random correct classified ships are shown below:
 
