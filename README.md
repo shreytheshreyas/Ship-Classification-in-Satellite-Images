@@ -23,6 +23,16 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * cv2
  * json
  * sklearn
+ * 
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
 
 | ----------- |:------------:| ---------:|
 | pandas      | seaborn      | json      |
