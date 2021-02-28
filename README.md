@@ -23,13 +23,6 @@ For this project "Ships in Satellite Imagery" dataset was used.
  * cv2
  * json
  * sklearn
- 
-
-| ------------------- |:-------------------:| ----------------:|
-| col 3 is            | right-aligned       | $1600            |
-| col 2 is            | centered            |   $12            |
-| zebra stripes       | are neat            |    $1            |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 # Some random correct classified ships are shown below:
 
