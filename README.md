@@ -15,15 +15,10 @@ For this project "Ships in Satellite Imagery" dataset was used.
 * Trained Model : https://drive.google.com/file/d/1ppK0QdsvzH8yNgbP-cV1OXAQYL9-kaV_/view?usp=sharing
 
 # Requirements
- * pandas                       
- * tensorflow                    
- * cv2                          
- * seaborn                       
- * json
- * matplotlib    
- * sklearn
- * numpy 
- 
-# Some random correct classified ships are shown below:
+ pandas                          seaborn                       json                        
+ tensorflow                      matplotlib                    sklearn         
+ cv2                             numpy     
+                       
+*Some random correct classified ships are shown below:
 
 ![](/Project_Image.png)
