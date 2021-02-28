@@ -17,9 +17,9 @@ For this project "Ships in Satellite Imagery" dataset was used.
 # Requirements
 
 <pre>
- Pandas                                Seaborn                              JSON                       
+ Pandas                                Seaborn                              Keras                      
  Tensorflow                            Matplotlib                           scikit-learn        
- OpenCV                                Numpy                                Keras
+ OpenCV                                Numpy                                
 </pre> 
  
 *Some random correct classified ships are shown below:
