@@ -22,6 +22,6 @@ For this project "Ships in Satellite Imagery" dataset was used.
  OpenCV                                NumPy                                
 </pre> 
  
-*Some random correct classified ships are shown below:
+*Some random correct classified ships are shown below:*
 
 ![](/Project_Image.png)
