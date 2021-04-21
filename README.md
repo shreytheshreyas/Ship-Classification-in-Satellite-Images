@@ -15,14 +15,7 @@ For this project "Ships in Satellite Imagery" dataset was used.
    * longitude_latitude: The longitude and latitude coordinates of the image center point, with values separated by a single underscore.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 
-# Requirements
 
-<pre>
- Pandas                                Seaborn                              Keras                      
- TensorFlow                            Matplotlib                           scikit-learn        
- OpenCV                                NumPy                                
-</pre> 
- 
  # Model Performance
  
  Performance Metrics:
@@ -48,3 +41,11 @@ Confusion Matrix:
 # Model Architecture
 
 <kbd><img height="500" src="/model.png"></kbd>
+
+# Requirements
+
+<pre>
+ Pandas                                    Seaborn                              Keras                      
+ TensorFlow                                Matplotlib                           scikit-learn        
+ OpenCV                                    NumPy                                
+</pre> 
