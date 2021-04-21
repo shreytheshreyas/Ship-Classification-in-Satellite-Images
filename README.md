@@ -2,6 +2,8 @@
 In this project a convolutional neural network model was created for ship classification in satellite images. 
 For this project "Ships in Satellite Imagery" dataset was used.
 
+# Dataset Properties
+
  * The specific Dataset includes 4000 images labeled with either a "ship" or "no-ship" classification.
  * These 4000 images are in .png format and have dimensions of 80 × 80 pixels. 
  * The colour depth of the above 4000 images is 24 bit (8 bits per channel).
@@ -22,6 +24,11 @@ For this project "Ships in Satellite Imagery" dataset was used.
  OpenCV                                NumPy                                
 </pre> 
  
+ # Model Performance
+ 
+ 
 *Some random correct classified ships are shown below:*
 
 ![](/Project_Image.png)
+
+ # Model Architecture
