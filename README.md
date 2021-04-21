@@ -25,11 +25,26 @@ For this project "Ships in Satellite Imagery" dataset was used.
  
  # Model Performance
  
- 
- 
- 
+ Performance Metrics:
+
+                    precision   recall   f1-score   support
+
+         0.0           0.99      0.96      0.97       970
+         1.0           0.89      0.97      0.93       350
+
+    accuracy                               0.96      1320
+    macro avg          0.94      0.96      0.95      1320
+    weighted avg       0.96      0.96      0.96      1320
+
+Confusion Matrix:
+
+<kbd><img height="400" src="/confusion_matrix.png"></kbd>
+
+
 *Some random correct classified ships are shown below:*
 
 ![](/Project_Image.png)
 
- # Model Architecture
+# Model Architecture
+
+<kbd><img height="500" src="/model.png"></kbd>
