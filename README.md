@@ -29,11 +29,6 @@ For this project "Ships in Satellite Imagery" dataset was used.
     macro avg          0.94      0.96      0.95      1320
     weighted avg       0.96      0.96      0.96      1320
 
-Confusion Matrix:
-
-<kbd><img height="400" src="/confusion_matrix.png"></kbd>
-
-
 
 *Some random correct classified ships are shown below:*
 
