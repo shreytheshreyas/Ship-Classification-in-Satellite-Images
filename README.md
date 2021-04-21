@@ -34,13 +34,14 @@ Confusion Matrix:
 <kbd><img height="400" src="/confusion_matrix.png"></kbd>
 
 
+
 *Some random correct classified ships are shown below:*
 
 ![](/Project_Image.png)
 
 # Model Architecture
 
-<kbd><img height="500" src="/model.png"></kbd>
+<kbd><img height="200" src="/model.png"></kbd>
 
 # Requirements
 
