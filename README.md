@@ -2,7 +2,7 @@
 In this project a convolutional neural network model was created for ship classification in satellite images. 
 For this project "Ships in Satellite Imagery" dataset was used.
 
-# Dataset Properties
+## Dataset Properties
 
  * The specific Dataset includes 4000 images labeled with either a "ship" or "no-ship" classification.
  * These 4000 images are in .png format and have dimensions of 80 × 80 pixels. 
@@ -16,29 +16,28 @@ For this project "Ships in Satellite Imagery" dataset was used.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 
 
- # Model Performance
+ ## Model Performance
  
  Performance Metrics:
-
-                    precision   recall   f1-score   support
-
-         0.0           0.99      0.96      0.97       970
-         1.0           0.89      0.97      0.93       350
-
-    accuracy                               0.96      1320
-    macro avg          0.94      0.96      0.95      1320
-    weighted avg       0.96      0.96      0.96      1320
-
-
-*Some random correct classified ships are shown below:*
+ 
+| Class        | Precision | Recall | F1-Score  | Number of Images|
+|:------------:|:---------:|:------:|:---------:|:---------------:|
+| 0            |0.99       | 0.96   |0.97       |   970           |
+| 1            | 0.89      | 0.97   |0.93       |   350           |
+|              |           |        |           |                 |
+| Accuracy     |           |        |0.96       |   1320          |
+| Macro Avg.   | 0.94      |0.96    |0.95       |   1320          |
+| Weighted Avg.| 0.96      |0.96    |0.96       |   1320          | 
+ 
+Some random correct classified ships are shown below:
 
 ![](/Project_Image.png)
 
-# Model Architecture
+## Model Architecture
 
 <kbd><img height="200" src="/model.png"></kbd>
 
-# Requirements
+## Requirements
 
 <pre>
  Pandas                                    Seaborn                              Keras                      
