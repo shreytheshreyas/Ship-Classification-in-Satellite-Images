@@ -34,8 +34,8 @@ Some random correct classified ships are shown below:
 ![](/Project_Image.png)
 
 ## Model Architecture
+![](/model_architecture.png)
 
-<kbd><img height="200" src="/model.png"></kbd>
 
 ## Requirements
 
