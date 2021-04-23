@@ -15,8 +15,10 @@ For this project "Ships in Satellite Imagery" dataset was used.
    * longitude_latitude: The longitude and latitude coordinates of the image center point, with values separated by a single underscore.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 
+## Model Architecture
+![](/model_architecture.png)
 
- ## Model Performance
+## Model Performance
  
  Performance Metrics:
  
@@ -32,10 +34,6 @@ For this project "Ships in Satellite Imagery" dataset was used.
 Some random correct classified ships are shown below:
 
 ![](/Project_Image.png)
-
-## Model Architecture
-![](/model_architecture.png)
-
 
 ## Requirements
 
