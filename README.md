@@ -25,12 +25,12 @@ For this project "Ships in Satellite Imagery" dataset was used.
  
 | Class        | Precision | Recall | F1-Score  | Number of Images|
 |:------------:|:---------:|:------:|:---------:|:---------------:|
-| 0            |0.99       | 0.96   |0.97       |   970           |
-| 1            | 0.89      | 0.97   |0.93       |   350           |
+| 0            |0.96       | 0.90   |0.93       |   970           |
+| 1            | 0.77      | 0.91   |0.84       |   350           |
 |              |           |        |           |                 |
-| Accuracy     |           |        |0.96       |   1320          |
-| Macro Avg.   | 0.94      |0.96    |0.95       |   1320          |
-| Weighted Avg.| 0.96      |0.96    |0.96       |   1320          | 
+| Accuracy     |           |        |0.91       |   1320          |
+| Macro Avg.   | 0.87      |0.91    |0.88       |   1320          |
+| Weighted Avg.| 0.91      |0.91    |0.91       |   1320          | 
  
 Some random correct classified ships are shown below:
 
