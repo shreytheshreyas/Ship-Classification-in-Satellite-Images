@@ -17,11 +17,11 @@ For this project "Ships in Satellite Imagery" dataset was used.
 * Dataset Link : https://www.kaggle.com/rhammell/ships-in-satellite-imagery 
 
 ## Model Architecture
-![](/model_architecture.png)
+![](Images/model_architecture.png)
 
 ## Model Performance
  
- Performance Metrics:
+ **Performance Metrics:**
  
 | Class        | Precision | Recall | F1-Score  | Number of Images|
 |:------------:|:---------:|:------:|:---------:|:---------------:|
@@ -32,14 +32,14 @@ For this project "Ships in Satellite Imagery" dataset was used.
 | Macro Avg.   | 0.87      |0.91    |0.88       |   1320          |
 | Weighted Avg.| 0.91      |0.91    |0.91       |   1320          | 
  
-Some random correct classified ships are shown below:
+**Some random correct classified ships are shown below:**
 
-![](/Project_Image.png)
+![](Images/Project_Image.png)
 
 ## Requirements
 
-<pre>
- Pandas                                    Seaborn                              Keras                      
- TensorFlow                                Matplotlib                           scikit-learn        
- OpenCV                                    NumPy                                
-</pre> 
+
+      pandas == 1.1.5                             seaborn == 0.11.1                        keras == 2.6.0                       
+      tensorflow == 2.6.0                         matplotlib == 3.2.2                      scikit-learn == 0.22.2.post1       
+      cv2 == 4.1.2                                numpy == 1.19.5                                
+
